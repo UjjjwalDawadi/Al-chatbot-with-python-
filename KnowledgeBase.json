@@ -1,0 +1,25 @@
+{
+  "who owns tesla": "Elon Musk owns tesla",
+  "who is ujjwal dawadi": "He is my creator.",
+  "_user_interactions": [
+    {
+      "input": "who is ujjwal dawadi",
+      "response": "He is my creator."
+    },
+    {
+      "input": "who is prachanda",
+      "response": "He is the prime minister of nepal"
+    },
+    {
+      "input": "where is nepal",
+      "response": "Nepal is a beautiful country located in Asia."
+    },
+    {
+      "input": "who is the father of science",
+      "response": "Galileo Galilei is known as the father of Science."
+    }
+  ],
+  "who is prachanda": "He is the prime minister of nepal",
+  "where is nepal": "Nepal is a beautiful country located in Asia.",
+  "who is the father of science": "Galileo Galilei is known as the father of Science."
+}

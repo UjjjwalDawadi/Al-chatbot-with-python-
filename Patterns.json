@@ -1,0 +1,78 @@
+[
+    {
+        "pattern": ["hi", "hello", "hey"],
+        "responses": ["Hello!", "Hi there!", "How can I help you?"]
+    },
+    {
+        "pattern": ["how are you", "how's it going"],
+        "responses": ["I am good, thank you.", "I am doing well."]
+    },
+    {
+        "pattern": ["bye", "goodbye"],
+        "responses": ["Goodbye!", "See you later!", "Take care."]
+    },
+    {
+        "pattern": ["tell me a joke"],
+        "responses": ["Why don't scientists trust atoms? Because they make up everything!"]
+    },
+    {
+        "pattern": ["who created you", "who made you"],
+        "responses": ["I was created by Ujjwal Dawadi."]
+    },
+    {
+        "pattern": ["who are you", "what are you"],
+        "responses": ["I am Talky, a chatbot program."]
+    },
+    {
+        "pattern": ["how does the weather look today", "weather"],
+        "responses": ["I'm sorry, I don't have real-time weather information. You can check a weather website or app for the current conditions."]
+    },
+    {
+        "pattern": ["favorite color"],
+        "responses": ["I don't have a favorite color. I'm a program!"]
+    },
+    {
+        "pattern": ["how can I learn programming", "learn programming"],
+        "responses": ["There are many resources available online. You can start with tutorials on websites like Codecademy or freeCodeCamp."]
+    },
+    {
+        "pattern": ["what is the meaning of life", "meaning of life"],
+        "responses": ["The meaning of life is a philosophical question. What do you think it is?"]
+    },
+    {
+        "pattern": ["what", "tell me about"],
+        "responses": ["I'm not sure. Can you provide more context or be more specific?"]
+    },
+    {
+        "pattern": ["how do", "how to"],
+        "responses": ["It depends on the context. Could you please elaborate or ask a specific question?"]
+    },
+    {
+        "pattern": ["how old are you", "what's your age"],
+        "responses": ["I don't have an age. I'm just a program."]
+    },
+    {
+        "pattern": ["what is your purpose", "why are you here"],
+        "responses": ["My purpose is to assist and chat with you. Ask me anything!"]
+    },
+    {
+        "pattern": ["what can you do", "your capabilities"],
+        "responses": ["I can answer questions, tell jokes, and chat with you. Feel free to test my abilities!"]
+    },
+    {
+        "pattern": ["are you human"],
+        "responses": ["No, I'm not human. I'm a chatbot designed to chat with you."]
+    },
+    {
+        "pattern": ["are you real"],
+        "responses": ["I'm as real as a virtual chatbot can be!"]
+    },
+    {
+        "pattern": ["do you sleep"],
+        "responses": ["No, I don't sleep. I'm always here to chat whenever you need!"]
+    },
+    {
+        "pattern": ["are you smart"],
+        "responses": ["I strive to be smart and helpful. Let me know if I can assist you!"]
+    }
+]
